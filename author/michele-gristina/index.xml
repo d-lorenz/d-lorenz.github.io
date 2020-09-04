@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michele Gristina | ...a sea of data...</title>
-    <link>/author/michele-gristina/</link>
-      <atom:link href="/author/michele-gristina/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://d-lorenz.github.io/author/michele-gristina/</link>
+      <atom:link href="https://d-lorenz.github.io/author/michele-gristina/index.xml" rel="self" type="application/rss+xml" />
     <description>Michele Gristina</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © Lorenzo D&#39;Andrea 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://d-lorenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Michele Gristina</title>
-      <link>/author/michele-gristina/</link>
+      <link>https://d-lorenz.github.io/author/michele-gristina/</link>
     </image>
     
     <item>
       <title>smartR: An r package for spatial modelling of fisheries and scenario simulation of management strategies</title>
-      <link>/publication/dandrea-smartr-2020/</link>
+      <link>https://d-lorenz.github.io/publication/dandrea-smartr-2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/dandrea-smartr-2020/</guid>
+      <guid>https://d-lorenz.github.io/publication/dandrea-smartr-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulating the effects of alternative management measures of trawl fisheries in the Central Mediterranean Sea: application of a multi-species bio-economic modelling approach</title>
-      <link>/publication/russo-2019-simulating/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2019-simulating/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2019-simulating/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2019-simulating/</guid>
       <description></description>
     </item>
     

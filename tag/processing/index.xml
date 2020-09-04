@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Processing | ...a sea of data...</title>
-    <link>/tag/processing/</link>
-      <atom:link href="/tag/processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://d-lorenz.github.io/tag/processing/</link>
+      <atom:link href="https://d-lorenz.github.io/tag/processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Processing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © Lorenzo D&#39;Andrea 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://d-lorenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Processing</title>
-      <link>/tag/processing/</link>
+      <link>https://d-lorenz.github.io/tag/processing/</link>
     </image>
     
     <item>
       <title>VMSbase: an R-package for VMS and logbook data management and analysis in fisheries ecology</title>
-      <link>/publication/russo-2014-vmsbase/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2014-vmsbase/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2014-vmsbase/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2014-vmsbase/</guid>
       <description></description>
     </item>
     

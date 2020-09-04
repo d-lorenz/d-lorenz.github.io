@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIS | ...a sea of data...</title>
-    <link>/tag/ais/</link>
-      <atom:link href="/tag/ais/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://d-lorenz.github.io/tag/ais/</link>
+      <atom:link href="https://d-lorenz.github.io/tag/ais/index.xml" rel="self" type="application/rss+xml" />
     <description>AIS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © Lorenzo D&#39;Andrea 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://d-lorenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>AIS</title>
-      <link>/tag/ais/</link>
+      <link>https://d-lorenz.github.io/tag/ais/</link>
     </image>
     
     <item>
       <title>Effect of temporal and spatial resolution on identification of fishing activities in small-scale fisheries using pots and traps</title>
-      <link>/publication/mendo-2019-effect/</link>
+      <link>https://d-lorenz.github.io/publication/mendo-2019-effect/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mendo-2019-effect/</guid>
+      <guid>https://d-lorenz.github.io/publication/mendo-2019-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting fishing footprint of trawlers from environmental and fleet data: an application of artificial neural networks</title>
-      <link>/publication/russo-2019-predicting/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2019-predicting/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2019-predicting/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2019-predicting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing the fishing footprint using data integrated from different tracking devices: Issues and opportunities</title>
-      <link>/publication/russo-2016-assessing/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2016-assessing/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2016-assessing/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2016-assessing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VMSbase: an R-package for VMS and logbook data management and analysis in fisheries ecology</title>
-      <link>/publication/russo-2014-vmsbase/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2014-vmsbase/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2014-vmsbase/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2014-vmsbase/</guid>
       <description></description>
     </item>
     

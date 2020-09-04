@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simulation | ...a sea of data...</title>
-    <link>/tag/simulation/</link>
-      <atom:link href="/tag/simulation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://d-lorenz.github.io/tag/simulation/</link>
+      <atom:link href="https://d-lorenz.github.io/tag/simulation/index.xml" rel="self" type="application/rss+xml" />
     <description>Simulation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © Lorenzo D&#39;Andrea 2020</copyright><lastBuildDate>Fri, 20 Dec 2019 11:26:21 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://d-lorenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Simulation</title>
-      <link>/tag/simulation/</link>
+      <link>https://d-lorenz.github.io/tag/simulation/</link>
     </image>
     
     <item>
       <title>smartR</title>
-      <link>/project/smart/</link>
+      <link>https://d-lorenz.github.io/project/smart/</link>
       <pubDate>Fri, 20 Dec 2019 11:26:21 +0100</pubDate>
-      <guid>/project/smart/</guid>
+      <guid>https://d-lorenz.github.io/project/smart/</guid>
       <description>&lt;p&gt;SMART (Spatial MAnagement of demersal Resources for Trawl fisheries), a tool for assessing bio-economic feedback in different management scenarios. smartR combines information from different tasks gathered within the European Data Collection Framework on fisheries and is composed of: 1) spatial models of fishing effort, environmental characteristics and distribution of demersal resources; 2) an Artificial Neural Network which captures the relationships among these aspects in a spatially explicit way and uses them to predict resources abundances; 3) a deterministic module which analyzes the size structure of catches and the associated revenues, according to different spatially-based management scenarios.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mantis</title>
-      <link>/project/mantis/</link>
+      <link>https://d-lorenz.github.io/project/mantis/</link>
       <pubDate>Fri, 20 Dec 2019 11:25:42 +0100</pubDate>
-      <guid>/project/mantis/</guid>
+      <guid>https://d-lorenz.github.io/project/mantis/</guid>
       <description>&lt;p&gt;Marine protected Areas Network Towards Sustainable fisheries in the Central Mediterranean is a three year project funded by the European Commission – DG Maritime Affairs and Fisheries (DG MARE) under the theme“ Marine protected areas: network(s) for enhancement of sustainable fisheries in EU Mediterranean waters Mare/2014/41.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Simulating the effects of alternative management measures of trawl fisheries in the Central Mediterranean Sea: application of a multi-species bio-economic modelling approach</title>
-      <link>/publication/russo-2019-simulating/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2019-simulating/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2019-simulating/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2019-simulating/</guid>
       <description></description>
     </item>
     

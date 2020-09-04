@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorenzo D&#39;Andrea | ...a sea of data...</title>
-    <link>/author/lorenzo-dandrea/</link>
-      <atom:link href="/author/lorenzo-dandrea/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://d-lorenz.github.io/author/lorenzo-dandrea/</link>
+      <atom:link href="https://d-lorenz.github.io/author/lorenzo-dandrea/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo D&#39;Andrea</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © Lorenzo D&#39;Andrea 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://d-lorenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Lorenzo D&#39;Andrea</title>
-      <link>/author/lorenzo-dandrea/</link>
+      <link>https://d-lorenz.github.io/author/lorenzo-dandrea/</link>
     </image>
     
     <item>
       <title>smartR: An r package for spatial modelling of fisheries and scenario simulation of management strategies</title>
-      <link>/publication/dandrea-smartr-2020/</link>
+      <link>https://d-lorenz.github.io/publication/dandrea-smartr-2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/dandrea-smartr-2020/</guid>
+      <guid>https://d-lorenz.github.io/publication/dandrea-smartr-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of temporal and spatial resolution on identification of fishing activities in small-scale fisheries using pots and traps</title>
-      <link>/publication/mendo-2019-effect/</link>
+      <link>https://d-lorenz.github.io/publication/mendo-2019-effect/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mendo-2019-effect/</guid>
+      <guid>https://d-lorenz.github.io/publication/mendo-2019-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting fishing footprint of trawlers from environmental and fleet data: an application of artificial neural networks</title>
-      <link>/publication/russo-2019-predicting/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2019-predicting/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2019-predicting/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2019-predicting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulating the effects of alternative management measures of trawl fisheries in the Central Mediterranean Sea: application of a multi-species bio-economic modelling approach</title>
-      <link>/publication/russo-2019-simulating/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2019-simulating/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2019-simulating/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2019-simulating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trends in effort and yield of trawl fisheries: a case study from the Mediterranean Sea</title>
-      <link>/publication/russo-2019-trends/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2019-trends/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2019-trends/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2019-trends/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshop on Tradeoffs Scenarios between the Impact on Seafloor Habitats and Provisions of catch-value (WKTRADE2)</title>
-      <link>/publication/bastardie-2019-workshop/</link>
+      <link>https://d-lorenz.github.io/publication/bastardie-2019-workshop/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/bastardie-2019-workshop/</guid>
+      <guid>https://d-lorenz.github.io/publication/bastardie-2019-workshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of trawling activity on the bamboo-coral Isidella elongata and the sea pen Funiculina quadrangularis along the Gioia Canyon (Western Mediterranean, southern Tyrrhenian Sea)</title>
-      <link>/publication/pierdomenico-2018-effects/</link>
+      <link>https://d-lorenz.github.io/publication/pierdomenico-2018-effects/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/pierdomenico-2018-effects/</guid>
+      <guid>https://d-lorenz.github.io/publication/pierdomenico-2018-effects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Small pelagic purse seines in the Adriatic Sea: A spatial analysis and technical overview in relation to Mediterranean Regulation provisions</title>
-      <link>/publication/lucchetti-2018-small/</link>
+      <link>https://d-lorenz.github.io/publication/lucchetti-2018-small/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/lucchetti-2018-small/</guid>
+      <guid>https://d-lorenz.github.io/publication/lucchetti-2018-small/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A holistic approach to fishery management: evidence and insights from a central mediterranean case study (Western Ionian Sea)</title>
-      <link>/publication/russo-2017-holistic/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2017-holistic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2017-holistic/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2017-holistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VMSbase: an R-package for VMS and logbook data management and analysis in fisheries ecology</title>
-      <link>/publication/russo-2014-vmsbase/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2014-vmsbase/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2014-vmsbase/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2014-vmsbase/</guid>
       <description></description>
     </item>
     

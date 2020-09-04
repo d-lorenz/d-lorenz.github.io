@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ionian | ...a sea of data...</title>
-    <link>/tag/ionian/</link>
-      <atom:link href="/tag/ionian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://d-lorenz.github.io/tag/ionian/</link>
+      <atom:link href="https://d-lorenz.github.io/tag/ionian/index.xml" rel="self" type="application/rss+xml" />
     <description>Ionian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © Lorenzo D&#39;Andrea 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://d-lorenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ionian</title>
-      <link>/tag/ionian/</link>
+      <link>https://d-lorenz.github.io/tag/ionian/</link>
     </image>
     
     <item>
       <title>A holistic approach to fishery management: evidence and insights from a central mediterranean case study (Western Ionian Sea)</title>
-      <link>/publication/russo-2017-holistic/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2017-holistic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2017-holistic/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2017-holistic/</guid>
       <description></description>
     </item>
     

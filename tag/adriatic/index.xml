@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adriatic | ...a sea of data...</title>
-    <link>/tag/adriatic/</link>
-      <atom:link href="/tag/adriatic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://d-lorenz.github.io/tag/adriatic/</link>
+      <atom:link href="https://d-lorenz.github.io/tag/adriatic/index.xml" rel="self" type="application/rss+xml" />
     <description>Adriatic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © Lorenzo D&#39;Andrea 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://d-lorenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Adriatic</title>
-      <link>/tag/adriatic/</link>
+      <link>https://d-lorenz.github.io/tag/adriatic/</link>
     </image>
     
     <item>
       <title>A model combining landings and VMS data to estimate landings by fishing ground and harbor</title>
-      <link>/publication/russo-2018-model/</link>
+      <link>https://d-lorenz.github.io/publication/russo-2018-model/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/russo-2018-model/</guid>
+      <guid>https://d-lorenz.github.io/publication/russo-2018-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Small pelagic purse seines in the Adriatic Sea: A spatial analysis and technical overview in relation to Mediterranean Regulation provisions</title>
-      <link>/publication/lucchetti-2018-small/</link>
+      <link>https://d-lorenz.github.io/publication/lucchetti-2018-small/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/lucchetti-2018-small/</guid>
+      <guid>https://d-lorenz.github.io/publication/lucchetti-2018-small/</guid>
       <description></description>
     </item>
     
