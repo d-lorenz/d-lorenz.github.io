@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Management | ...a sea of data...</title>
+    <link>/tag/management/</link>
+      <atom:link href="/tag/management/index.xml" rel="self" type="application/rss+xml" />
+    <description>Management</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © Lorenzo D&#39;Andrea 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Management</title>
+      <link>/tag/management/</link>
+    </image>
+    
+    <item>
+      <title>Simulating the effects of alternative management measures of trawl fisheries in the Central Mediterranean Sea: application of a multi-species bio-economic modelling approach</title>
+      <link>/publication/russo-2019-simulating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/russo-2019-simulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in effort and yield of trawl fisheries: a case study from the Mediterranean Sea</title>
+      <link>/publication/russo-2019-trends/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/russo-2019-trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model combining landings and VMS data to estimate landings by fishing ground and harbor</title>
+      <link>/publication/russo-2018-model/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/russo-2018-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A holistic approach to fishery management: evidence and insights from a central mediterranean case study (Western Ionian Sea)</title>
+      <link>/publication/russo-2017-holistic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/russo-2017-holistic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

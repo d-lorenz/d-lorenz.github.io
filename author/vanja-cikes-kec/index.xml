@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vanja Čikeš Keč | ...a sea of data...</title>
+    <link>/author/vanja-cikes-kec/</link>
+      <atom:link href="/author/vanja-cikes-kec/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vanja Čikeš Keč</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © Lorenzo D&#39;Andrea 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Vanja Čikeš Keč</title>
+      <link>/author/vanja-cikes-kec/</link>
+    </image>
+    
+    <item>
+      <title>Small pelagic purse seines in the Adriatic Sea: A spatial analysis and technical overview in relation to Mediterranean Regulation provisions</title>
+      <link>/publication/lucchetti-2018-small/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lucchetti-2018-small/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

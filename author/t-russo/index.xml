@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Russo | ...a sea of data...</title>
+    <link>/author/t-russo/</link>
+      <atom:link href="/author/t-russo/index.xml" rel="self" type="application/rss+xml" />
+    <description>T Russo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © Lorenzo D&#39;Andrea 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>T Russo</title>
+      <link>/author/t-russo/</link>
+    </image>
+    
+    <item>
+      <title>Rummaging through the bin: Modelling marine litter distribution using Artificial Neural Networks</title>
+      <link>/publication/franceschini-2019-rummaging/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/franceschini-2019-rummaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model combining landings and VMS data to estimate landings by fishing ground and harbor</title>
+      <link>/publication/russo-2018-model/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/russo-2018-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the fishing footprint using data integrated from different tracking devices: Issues and opportunities</title>
+      <link>/publication/russo-2016-assessing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/russo-2016-assessing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

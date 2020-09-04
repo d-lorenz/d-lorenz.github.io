@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oisin Callery | ...a sea of data...</title>
+    <link>/author/oisin-callery/</link>
+      <atom:link href="/author/oisin-callery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oisin Callery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All rights reserved © Lorenzo D&#39;Andrea 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Oisin Callery</title>
+      <link>/author/oisin-callery/</link>
+    </image>
+    
+    <item>
+      <title>Workshop on Tradeoffs Scenarios between the Impact on Seafloor Habitats and Provisions of catch-value (WKTRADE2)</title>
+      <link>/publication/bastardie-2019-workshop/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bastardie-2019-workshop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
